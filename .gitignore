@@ -1,3 +1,5 @@
 .terraform/
 .vscode/
 *.info
+terraform.tfstate
+terraform.tfstate.backup
