@@ -3,7 +3,11 @@
 variable "tenancy_ocid" {}
 variable "user_ocid" {}
 variable "fingerprint" {}
+<<<<<<< HEAD
 variable "private_key" {}
+=======
+variable "private_key_path" {}
+>>>>>>> parent of 2c3eda5... 2nd
 variable "region" {}
 
 variable "compartment_ocid" {}
